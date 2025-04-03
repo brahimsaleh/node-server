@@ -13,5 +13,18 @@
     "id": 3,
     "name": "Teclado",
     "price": 80
+  },
+  {
+    "id": 4
+  },
+  {
+    "id": 5,
+    "name": "coche",
+    "price": 400
+  },
+  {
+    "id": 6,
+    "name": "Jorge",
+    "price": 999
   }
 ]
